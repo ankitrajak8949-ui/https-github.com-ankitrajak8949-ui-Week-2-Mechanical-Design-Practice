@@ -1,0 +1,2 @@
+# https-github.com-ankitrajak8949-ui-Week-2-Mechanical-Design-Practice
+This engineering submission represents the completion of the Week 2 Task: Hands-on Practice in Mechanical Design track. The exercise focuses on translating foundational mechanical design theory into a practical, real-world engineering deliverable using Dassault Systèmes SolidWorks alongside ASME Y14.5-2018 Geometric Dimensioning and Toleran
